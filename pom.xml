@@ -79,6 +79,7 @@
                 </executions>
                 <configuration>
                     <outxml>true</outxml>
+                    <Xlint>ignore</Xlint>
                     <aspectLibraries>
                         <aspectLibrary>
                             <groupId>org.springframework</groupId>
